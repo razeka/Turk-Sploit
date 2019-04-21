@@ -1,9 +1,8 @@
 #!/bin/bash
 #!/bin/sh
-#Code:Yaman Efkar
+#Code:Emre
 #Türk Siber Timi
-#İnstagram : @turksibertimi
-#Youtube : YamanEfkar
+#İnstagram : emre_gnddu
 clear
 case $1 in
 
@@ -63,9 +62,9 @@ echo -e '\033[31;40;1m
 	────────────────█████████───────────────
 	──────────────█████████████─────────────
 
-	   \e[35m☾★ ☾★ ☾★ ☾★ YamanEfkar ☾★ ☾★ ☾★ ☾★	
-	 \e[31m☾★ ☾★ ☾★ ☾★ Türk Siber Timi ☾★ ☾★ ☾★ ☾★	
-  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @turksibertimi ☾★ ☾★ ☾★ ☾★	
+	   \e[35m☾★ ☾★ ☾★ ☾★ EmreGündoğdu ☾★ ☾★ ☾★ ☾★	
+	 \e[31m☾★ ☾★ ☾★ ☾★ Türk Hack Team☾★ ☾★ ☾★ ☾★	
+  \e[32m☾★ ☾★ ☾★ ☾★ İnstagram : @emre_gnddu ☾★ ☾★ ☾★ ☾★	
 '
 echo -e '
 \e[31m[01]\e[32mİnstagram			\e[31m[04]\e[32mFacebook
